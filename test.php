@@ -74,7 +74,7 @@ if (!isset($page_url)){
 		var API_PATH = '<?= base_url('api/v1') ?>/';
 		var BASE_PATH = '<?= base_url() ?>';
 	</script>
-	<script type="text/javascript"></script>
+	<script type="text/javascript">   </script>
 	<!-- Global site tag (gtag.js) - Google Analytics New
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-152960677-1"></script>
 	<script>
